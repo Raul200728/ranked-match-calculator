@@ -23,7 +23,7 @@ function determineLevel(performance) {
 }
 
 // Definindo variáveis
-let nameCharacter = "Caio_93";
+let nameCharacter = "Raul";
 let wins = 100;
 let defeats = 20;
 
